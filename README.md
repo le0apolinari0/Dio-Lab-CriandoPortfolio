@@ -20,7 +20,6 @@ Construindo Primeiro Portfólio Front-end .
 <img align="center" alt="Github"src="https://img.shields.io/badge/Github-808080?style=for-the-badge&logo=Github&logoColor=black">
 <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-363636.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img align="center" alt="Visual-Studio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=E94D5F"/>
 
