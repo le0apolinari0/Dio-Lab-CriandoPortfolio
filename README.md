@@ -42,11 +42,17 @@ Crie seu próprio portfólio front-end, atentando-se para que seja autêntico, v
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Front-End%20Em-Desenvolvimento&color=F7DF1E&style=for-the-badge"/>
 </p>
 
-<h1>Autor de projeto</h1>
+<h1>Autor do Projeto</h1>
+Elidiana Andrade
 
+
+[![github](https://img.shields.io/badge/github-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elidianaandrade)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@casalfullstack)
+
+
+<h1> Atualizações Feitas no Projeto </h1>
 Leo Apolinario
 
 ## 📱 Contatos 
-
 [![inkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leobaldo-apolinario/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512988432405?text=Ol%C3%A1%20bem%20vindo%20!%20Eu%20sou%20o%20Leo%20Apolinario%20deixe%20sua%20mensagem%20que%20retornarei%20o%20mais%20breve%20poss%C3%ADvel%20.)
